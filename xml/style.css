@@ -1,0 +1,50 @@
+CATALOG
+{
+  background-color: #8de388;
+  width:100%;
+}
+STUDENT{
+  display: block;
+  margin-bottom: 30pt;
+  margin-left: 0;
+  color:#f7220a;
+}
+NAME
+{
+  color:blue;
+  font-size:20pt;
+}
+SRN
+{
+  color:#a84632;
+  font-size: 20pt;
+}
+BRANCH
+{
+  display: block;
+  color:red;
+  margin-left: 20pt;
+
+
+}
+SEMESTER
+{
+  display: block;
+  color:#f7220a;
+  margin-left: 20pt;
+
+}
+
+UNIVERSITY
+{
+  display: block;
+color:red;
+margin-left: 20pt;
+}
+COUNTRY
+{
+  
+  display: block;
+  color:#f7220a;
+  margin-left: 20pt;
+}
