@@ -11,6 +11,7 @@ STUDENT{
 }
 NAME
 {
+  font-size:30px;
   color:blue;
   font-size:20pt;
 }
@@ -22,7 +23,7 @@ SRN
 BRANCH
 {
   display: block;
-  color:red;
+  color:darkorchid;
   margin-left: 20pt;
 
 
@@ -38,7 +39,7 @@ SEMESTER
 UNIVERSITY
 {
   display: block;
-color:red;
+color:darkmagenta;
 margin-left: 20pt;
 }
 COUNTRY
